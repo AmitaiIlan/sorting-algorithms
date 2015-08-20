@@ -1,0 +1,5 @@
+For 100000 Integers:
+RadixSort(LSD): 0.066 seconds
+RadixSort(MSD): 0.065 seconds
+Quicksort: 0.099 seconds
+Mergesort: 0.073 seconds
